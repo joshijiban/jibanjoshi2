@@ -1,0 +1,50 @@
+.logo{
+    top:0px;
+    position:sticky;
+    background-color:black;
+}
+.logo a{
+    float:right;
+}
+.logo p{
+    float:right;
+    font-size:18px;
+    color: #FDC82F;
+}
+hr{
+    color:black;
+    top:147px;
+    position:sticky;
+}
+.buttons{
+    text-align:center;
+    display:block;
+    color:white;
+    position:sticky;
+    top:150px;
+    background-color:black;
+    font-family:'Times New Roman', Times, serif;
+    margin:5px;
+}
+.button1{
+    font-size:20px;
+    background-color:black;
+    color:white;
+    border: 1px solid white;
+    padding:3px;
+    text-decoration:none;
+}
+.button1:hover{
+background-color: #FDC82F;
+transition-duration:0.5s;
+color:black;
+border-color:#FDC82F;
+}
+.footer{
+    text-align:center;
+    color:white;
+    background-color:black;
+}
+.footer h2{
+    color:#FDC82F;
+}
